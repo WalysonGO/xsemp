@@ -16,6 +16,14 @@ O XSemp é um launcher <b>NÃO OFICIAL</b>, atualmente em desenvolvimento, proje
 
 ## Instalação
 
+### Testado no antivirus do <b>VIRUSTOTAL</b>
+
+Windows(.exe): <https://www.virustotal.com/gui/file-analysis/ZmY5MDY3M2FmNDFiMzA3MzE1NjBhM2I0YWNmYzc4YTc6MTcxNzAxNzY5NA==>
+
+Linux(.deb): <https://www.virustotal.com/gui/file-analysis/OTRiYTVhMTIxOGI4NGY5YzAyYWUyNmMwZjZjN2ZiYjc6MTcxNzAxNzkyNw==>
+
+### Baixe e comece utilizar
+
 Acesse o [link de download](https://github.com/WalysonGO/xsemp/releases) para baixar tanto para Linux e Windows.
 
 ## Estado de Desenvolvimento
