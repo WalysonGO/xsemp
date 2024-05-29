@@ -25,3 +25,5 @@ O XSemp promete ser uma ferramenta revolucionária para jogadores de PC que dese
 Fique atento às atualizações e participe da comunidade para acompanhar as novidades e contribuir com sugestões e feedbacks!
 
 ---
+
+Esse projeto utiliza o [Better XCloud](https://github.com/redphx/better-xcloud) para permitir a jogabilidade com **Mouse** e **Teclado**.
