@@ -39,3 +39,5 @@ Fique atento às atualizações e participe da comunidade para acompanhar as nov
 ---
 
 Esse projeto utiliza o [Better XCloud](https://github.com/redphx/better-xcloud) para permitir a jogabilidade com **Mouse** e **Teclado**.
+
+# OBS: Esse projeto não tem nenhum vinculo com a Xbox/Microsoft
